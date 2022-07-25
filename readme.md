@@ -1,6 +1,6 @@
 # Snippet Forms
 
-This workflow contains templates for Snippet Forms. Snippet Forms open a form or form-letter in a specified text editor. Allowing you to use the editors native tab-able placeholders. You can then make complex snippets that can be tabbed through and fill in like a form.
+This workflow (for Alfred 5) contains ‘templates’ for Snippet Forms. Snippet Forms open a form or form-letter in a specified text editor. Allowing you to use the editors native tab-able placeholders. You can then make complex snippets that can be tabbed through and fill in like a form.
 
 ![The Snippet Forms Workflow including two templates](workflow.png)
 
