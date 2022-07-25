@@ -10,14 +10,14 @@ Use the snippet trigger keyword anywhere they work. It will open the Snippet For
 
 __There are two variables to configure in Configure Workflow.__ 
 
-![The configure screen.](config.png)
-
 1. Text Editor {var:editor}. More specifically the command line utility for the editor. The editor must be configured to stop execution of the shell while in use. For example: bbedit --wait
 
 2. Text Editor Bundle ID {var:editor_id}. The bundle id of your text editor.
 
 	_Use the AppleScript: 'get id of application "BBEdit"' to find your editor's bundle id. Replace BBEdit with the name of your editor._
 	
+![The configure screen.](config.png)
+
 __There are also two objects to configure in the template workflows provided.__
 
 1. The first object should be configured with the snippet trigger.
