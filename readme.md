@@ -4,7 +4,7 @@ This workflow (for Alfred 5) contains ‘templates’ for Snippet Forms. Snippet
 
 ![The Snippet Forms Workflow including two templates](workflow.png)
 
-Use the snippet trigger keyword anywhere they work. It will open the Snippet Form in your graphical text editor of choice. Edit, save and close the Snippet Form and it will expand inline where the keyword was triggered.
+Use the snippet trigger keyword anywhere they work. It will open the Snippet Form in the text editor of your choice. Edit, save and close the Snippet Form and it will expand inline where the keyword was triggered.
 
 ![Animated gif showing Snippet Form working.](snippet_form.gif)
 
